@@ -1,0 +1,2 @@
+[29-Oct-2017 06:12:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[29-Oct-2017 06:12:25 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
